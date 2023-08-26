@@ -10,26 +10,26 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['62895613110306', '美Vynaa', true] //Ganti aja
+['6282389924037', '美Vynaa', true] //Ganti aja
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '62895613110306' //Ganti
-global.packname = '© Sticker by Asep'
-global.author = 'Asep-MD'
-global.namebot = 'Aswp - MD'
-global.wm = '© Asep MD By Asep134'
-global.stickpack = '© Sticker by Asep'
-global.stickauth = 'Asep-MD'
+global.nomorwa = '6282389924037' //Ganti
+global.packname = '© Sticker by'
+global.author = 'Yaemiko-MD'
+global.namebot = 'Yaemiko - MD'
+global.wm = '© Yaemiko MD By VynaChan'
+global.stickpack = '© Sticker by'
+global.stickauth = 'Yaemiko-MD'
 // Link Sosmed
-global.sig = 'https://instagram.com/divis_killer'
-global.sgh = '-'
-global.sgc = 'https://chat.whatsapp.com/JDArSnK1PEdGESI9Hp0r3b'
+global.sig = 'https://instagram.com/_xwby_?igshid=ZDc4ODBmNjlmNQ=='
+global.sgh = 'https://github.com/Xyroinee'
+global.sgc = 'https://chat.whatsapp.com/CMK56xUxfTgAXGZjsZBmwf'
 // Donasi
-global.psaweria = '-
-global.ptrakterr = '-'
-global.povo = '0895-6131-10306'
+global.psaweria = 'https://shoplinks.to/vyna-store'
+global.ptrakterr = 'https://shoplinks.to/vyna-store'
+global.povo = '0823-8992-4037'
 // Info Wait
 global.wait = '⏳ Proses...'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
@@ -46,7 +46,7 @@ global.APIs = {
     xyro: "https://api.xyroinee.xyz",
 }
 
-/*Apikey*/
+/Apikey/
 global.APIKeys = {
     "https://api.xyroinee.xyz": "j9XFN6zChx",
 }
